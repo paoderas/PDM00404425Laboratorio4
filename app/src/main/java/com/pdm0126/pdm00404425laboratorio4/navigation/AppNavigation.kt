@@ -7,8 +7,9 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 
 import androidx.navigation3.runtime.entryProvider
 import androidx.navigation3.ui.NavDisplay
+import com.pdm0126.pdm00404425laboratorio4.screens.GeneralViewModel
 import com.pdm0126.pdm00404425laboratorio4.screens.TaskScreen
-import com.pdm0126.pdm00404425laboratorio4.viewmodel.GeneralViewModel
+
 
 @Composable
 fun AppNavigation() {
